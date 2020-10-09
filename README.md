@@ -1,2 +1,2 @@
 # WebsiteProject
-Making a Website with a team of two for a School Project
+Making a Website for a School Project
